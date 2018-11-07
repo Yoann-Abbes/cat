@@ -23,7 +23,6 @@ CFLAGS= $(INC)	\
 	-W	\
 	-Wall	\
 	-Wextra	\
-        -ggdb   \
 
 LDFLAGS= -lmy   \
          -L./lib/my/ \
